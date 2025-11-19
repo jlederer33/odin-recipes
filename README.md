@@ -1,2 +1,2 @@
 # odin-recipes
-This is a simple HTML project to help test my knowledge of this stuff. I look forward to learning and growing as a dev. My task is to build a simple website using HTML that contains some recipes. 
+This is a simple HTML project to help test my knowledge of this stuff. I look forward to learning and growing as a dev. My task is to build a simple website using HTML that contains some recipes.  
